@@ -1,8 +1,8 @@
-# muban
+# elm-fake
 
 ## Project setup
-## 请确保node的版本为node14，否则node-sass安装报错
-## 如果实在不行，直接将node_modules.zip解压到项目目录下
+### 请确保node的版本为node14，否则node-sass安装报错
+### 如果实在不行，直接将node_modules.zip解压到项目目录下
 
 ```
 npm install 或 yarn
@@ -12,10 +12,9 @@ npm install 或 yarn
 ```
 npm run dev 
 ```
-##后端接口详见：https://github.com/bailicangdu/node-elm/blob/master/API.md
 
-##项目目录结构
-'''
+## 项目目录结构
+```
 ├── src                                         // 源码目录
 │   ├── components                              // 公共组件
 │   ├── config                                  // 基本配置（Fetch获取数据和其他工具类）
@@ -43,4 +42,6 @@ npm run dev
 │       ├── mixin.scss                          // 样式配置文件
 │   ├── App.vue                                 // 页面入口文件
 │   ├── main.js                                 // 程序入口文件，加载各种公共组件
-''''
+```
+
+## 后端接口详见：https://github.com/bailicangdu/node-elm/blob/master/API.md
