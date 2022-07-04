@@ -2,7 +2,6 @@
 
 ## Project setup
 ### 请确保node的版本为node14，否则node-sass安装报错
-### 如果实在不行，直接将node_modules.zip解压到项目目录下
 
 ```
 npm install 或 yarn
@@ -45,3 +44,10 @@ npm run dev
 ```
 
 ## 后端接口详见：https://github.com/bailicangdu/node-elm/blob/master/API.md
+
+###	其他事项
+
+### 部分运行截图
+
+
+<img src="https://github.com/BirdGurhl/elm-fake/blob/master/run.gif" width="316" height="685"/>
