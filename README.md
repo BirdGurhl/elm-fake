@@ -50,4 +50,4 @@ npm run dev
 ### 部分运行截图
 
 
-<img src="https://github.com/BirdGurhl/elm-fake/blob/master/screen%20shots/run.gif" width="316" height="685"/>
+<img src="https://github.com/BirdGurhl/elm-fake/blob/master/screen%20shots/run.gif" />
